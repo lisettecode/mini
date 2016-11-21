@@ -61,7 +61,35 @@
 	padding: 20px 20px 10px 20px;
 }
 
+.img {
+	margin-left: 50px;
+}
 
+.ejemplo {
+	font-size: 15px;
+	margin-left: 15px;
+	color: #C2C3C6;
+	font-family: Open Sans;
+}
+
+.h3 {
+	color: #878786;
+	font-family: Open Sans;
+}
+
+.more {
+	font-size: 15px;
+	text-align: center;
+	background-color: #FCBA43;
+	padding: 5px 15px;
+	text-decoration: none;
+	color: #FDEEC8;
+	font-family: Open Sans;
+	margin-left: 150px;
+}
+.box {
+	padding-top: 50px;
+}
 
 /*footer*/
 
@@ -71,6 +99,10 @@
 	height: 60px;
 }
 
+.copyr {
+		color: #D7E3D6;
+		padding-top: 15px;
+}
 
 
 
